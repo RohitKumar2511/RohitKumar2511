@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-<a href="[https://linkedin.com/in/rohit kumar mahato](https://www.linkedin.com/in/rohit-kumar-mahato-00915a148/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar mahato" height="30" width="40" /></a>
+<!-- <a href="[https://linkedin.com/in/rohit kumar mahato](https://www.linkedin.com/in/rohit-kumar-mahato-00915a148/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar mahato" height="30" width="40" /></a> -->
 
-<!-- <a href="https://linkedin.com/in/rohit kumar mahato-00915a148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar mahato" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/rohit kumar mahato-00915a148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar mahato" height="30" width="40" /></a> 
 <a href="https://instagram.com/r.k_mahato12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.k_mahato12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitkumarmahato2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitkumarmahato2511" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohitkumarmahato2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitkumarmahato2511" height="30" width="40" /></a>
