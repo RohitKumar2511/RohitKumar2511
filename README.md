@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **MySQL, Django, Python, RESTAPI, CPP, Java, HTML, CSS, Javascript and React.**
+- 💬 Ask me about **MySQL, Django, Python, REST API, CPP, Java, HTML, CSS, Tailwind, Bootstrap, Javascript and React.**
 
 - 📫 How to reach me **rohitkumarmahato2511@gmail.com**
 
